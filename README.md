@@ -14,15 +14,14 @@ This repository serves as a comprehensive archive of tasks undertaken during the
 
 ## Directory Structure
 
-📁 DEP
-├── 📁 Task1
-│   ├── 📄 README.md
-│   ├── 📄 Housing.csv
-│   └── 📄 Housing_Price_Prediction.ipynb
-├── 📁 Task2
-├── 📁 Task3
+DEP
+├── Task1/
+│   ├── README.md
+│   ├── Housing.csv
+│   └── Housing_Price_Prediction.ipynb
+├── Task2/
+├── Task3/
 └── ...
-
 
 
 ## Getting Started
