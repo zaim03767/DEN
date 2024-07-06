@@ -12,17 +12,6 @@ Welcome to the DEP Machine Learning Internship Repository. This repository is de
 
 This repository serves as a comprehensive archive of tasks undertaken during the DEP Machine Learning Internship. Each task directory contains all necessary resources and documentation to facilitate understanding and reproducibility.
 
-## Directory Structure
-
-DEP/
-├── Task1/
-│   ├── README.md
-│   ├── Housing.csv
-│   └── Housing_Price_Prediction.ipynb
-├── Task2/
-├── Task3/
-└── ...
-
 ## Getting Started
 
 To explore the tasks and contributions:
