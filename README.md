@@ -14,7 +14,7 @@ This repository serves as a comprehensive archive of tasks undertaken during the
 
 ## Directory Structure
 
-DEP
+DEP/
 ├── Task1/
 │   ├── README.md
 │   ├── Housing.csv
@@ -22,7 +22,6 @@ DEP
 ├── Task2/
 ├── Task3/
 └── ...
-
 
 ## Getting Started
 
