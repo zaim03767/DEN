@@ -4,7 +4,7 @@ Welcome to the DEP Machine Learning Internship Repository. This repository is de
 
 ## Repository Structure
 
-- Each task is organized into separate directories (e.g., `Task1`, `Task2`) within this repository.
+- Each task is organized into separate directories (e.g., `Task 1`, `Task 2`) within this repository.
 - Detailed instructions, datasets, and code implementations are provided for each task.
 - Reports and findings from each task are documented for review and reference.
 
