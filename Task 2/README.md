@@ -21,4 +21,4 @@ This project involves building a spam email classifier using machine learning te
 - **Clone the Repository:**
    ```sh
    git clone https://github.com/zaim03767/DEP.git
-   cd DEP```
+   cd DEP
