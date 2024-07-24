@@ -18,7 +18,11 @@ This project involves building a spam email classifier using machine learning te
 
 ## Installation
 
-- **Clone the Repository:**
+1. **Clone the Repository:**
    ```sh
    git clone https://github.com/zaim03767/DEP.git
    cd DEP
+2. **Open the Notebook**: Access the `Email_Classifier.ipynb` in Jupyter.
+3. **Install Dependencies**: Ensure all necessary Python libraries are installed for seamless execution.
+4. **Execution**: Run all cells in the notebook to witness the results and insights.
+
