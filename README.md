@@ -28,5 +28,5 @@ Contributions and improvements to the tasks are welcome through pull requests. F
 
 For inquiries or feedback regarding this repository, please contact:
 - Malik Zaeem Zulfiqar
-  Email: [here](zaim03767@gmail.com)
+- Email: [here](zaim03767@gmail.com)
 
