@@ -5,12 +5,12 @@ A machine learning project to classify images using a Convolutional Neural Netwo
 This project involves building an image classification model using CNN techniques. The model is trained on the CIFAR-10 dataset and implemented in a Jupyter notebook.
 
 ## Dataset
-**Dataset Used**: CIFAR-10
-**Description**: The CIFAR-10 dataset contains 60,000 32x32 color images in 10 different classes, with 6,000 images per class.
+- **Dataset Used**: CIFAR-10
+- **Description**: The CIFAR-10 dataset contains 60,000 32x32 color images in 10 different classes, with 6,000 images per class.
 
 ## Code
-**Notebook**: `Img_Classification_CNN.ipynb`
-**Description**: Jupyter notebook with code for data preprocessing, model training, and evaluation.
+- **Notebook**: `Img_Classification_CNN.ipynb`
+- **Description**: Jupyter notebook with code for data preprocessing, model training, and evaluation.
 
 ## Installation
 1. **Clone the Repository:**
