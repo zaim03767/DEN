@@ -1,6 +1,6 @@
 # House Price Prediction
 
-This directory contains files related to Task 1 of the DEP Machine Learning Internship. The project aims to predict house prices using a machine learning model trained on housing data.
+This directory contains files related to Task 1 of the DEN Machine Learning Internship. The project aims to predict house prices using a machine learning model trained on housing data.
 
 ## Project Description
 
@@ -25,7 +25,7 @@ This project involves building a machine learning model to predict house prices 
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/zaim03767/DEP.git
+   git clone https://github.com/zaim03767/DEN.git
    cd DEP
 2. **Open the Notebook**: Access the `House_Price_Prediction.ipynb` in Jupyter.
 3. **Install Dependencies**: Ensure all necessary Python libraries are installed for seamless execution.
