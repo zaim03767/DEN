@@ -1,6 +1,6 @@
-# DEP Machine Learning Internship Repository
+# DEN Machine Learning Internship Repository
 
-Welcome to the DEP Machine Learning Internship Repository. This repository is dedicated to documenting and storing tasks assigned during the internship. Here, you will find implementations, datasets, and reports related to various machine learning projects.
+Welcome to the DEN Machine Learning Internship Repository. This repository is dedicated to documenting and storing tasks assigned during the internship. Here, you will find implementations, datasets, and reports related to various machine learning projects.
 
 ## Repository Structure
 
