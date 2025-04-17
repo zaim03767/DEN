@@ -10,7 +10,7 @@ Welcome to the DEN Machine Learning Internship Repository. This repository is de
 
 ## Tasks Overview
 
-This repository serves as a comprehensive archive of tasks undertaken during the DEP Machine Learning Internship. Each task directory contains all necessary resources and documentation to facilitate understanding and reproducibility.
+This repository serves as a comprehensive archive of tasks undertaken during the DEN Machine Learning Internship. Each task directory contains all necessary resources and documentation to facilitate understanding and reproducibility.
 
 ## Getting Started
 
