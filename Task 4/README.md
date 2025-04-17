@@ -15,8 +15,8 @@ This project involves building an image classification model using CNN technique
 ## Installation
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/zaim03767/DEP.git
-   cd DEP
+   git clone https://github.com/zaim03767/DEN.git
+   cd DEN
 2. **Open the Notebook**: Access the `Img_Classification_CNN.ipynb` in Jupyter.
 3. **Install Dependencies**: Ensure all necessary Python libraries are installed for seamless execution.
 4. **Execution**: Run all cells in the notebook to witness the results and insights.
